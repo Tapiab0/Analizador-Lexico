@@ -10,6 +10,7 @@ Ingreso de tokens
 
 ![image](https://user-images.githubusercontent.com/123348504/214215277-0b21128b-a23d-4e44-9f6d-7ce793f6300a.png)
 ![image](https://user-images.githubusercontent.com/123348504/214215368-885f7307-9601-4d77-955d-2f2a9fe7a6a6.png)
+![image](https://user-images.githubusercontent.com/123348504/214609048-69e3a031-40e0-4ece-a0a0-56c2c57d8f95.png)
 ![image](https://user-images.githubusercontent.com/123348504/214214358-31ad3316-78bd-47c0-a0ba-739b6613c7cb.png)
 
 Cierre de programa al ingresar $
